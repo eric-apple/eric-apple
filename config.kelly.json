@@ -1,0 +1,23 @@
+{
+  "person": "kelly",
+  "sources": [
+    "/Volumes/Aluminium/_KELLY",
+    "/Volumes/ExtremeBlue/kelly",
+    "/Volumes/homes/kbernsen"
+  ],
+  "destination": "/Volumes/WD_Black_8TB/Pictures_Kelly",
+  "db_path": "./kelly_catalog.sqlite3",
+  "exiftool_path": "exiftool",
+  "image_extensions": [
+    ".jpg", ".jpeg", ".png", ".heic", ".heif", ".gif", ".bmp",
+    ".tiff", ".tif", ".webp", ".cr2", ".nef", ".arw", ".dng", ".raf", ".orf"
+  ],
+  "video_extensions": [
+    ".mp4", ".mov", ".m4v", ".avi", ".3gp", ".mts", ".m2ts",
+    ".mpg", ".mpeg", ".wmv", ".flv", ".webm"
+  ],
+  "near_dup_hamming_threshold": 6,
+  "screenshot_filename_patterns": [
+    "^screenshot", "^screen shot", "^screen_shot", "^img_e\\d", "^snip"
+  ]
+}
