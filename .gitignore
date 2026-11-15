@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 *.sqlite3
 *_report.md
+*_thumbs/
+*_gallery.html
+*_search.html

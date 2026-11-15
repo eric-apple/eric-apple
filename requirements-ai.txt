@@ -1,0 +1,4 @@
+# Optional photo AI for memory_machine.py (runs locally; Apple Silicon GPU via MPS).
+# First run downloads the CLIP model weights (~600 MB) from Hugging Face, then works offline.
+torch>=2.2
+open_clip_torch>=2.24
